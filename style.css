@@ -1,0 +1,142 @@
+.box {
+    background-color:rgb(255, 253, 253);
+    border: 1px solid rgb(19, 19, 43);
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    transition: background 0.5s;
+    color: black;
+
+    height: 200px; /* Adjust height as needed */
+}
+.box:hover{
+    background: wheat;
+
+
+
+}
+.boy1{
+    background-color:lightblue;
+    color: rgb(1, 1, 19);
+    display: flex;
+    
+    
+}
+.boy2{
+    margin-left: 10%;
+}
+
+    
+
+form input {
+    width:80%;
+    border: 0;
+    outline: none;
+    padding: 2px;
+    margin: 15px 0;
+    border-radius: 6px;
+}
+
+.boy2{
+    margin-left: 5%;
+
+}
+
+
+.date-container {
+    background-color:whitesmoke;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 70%;
+    margin-left: 10%;
+    
+    
+    
+}
+
+#current-date {
+    font-size: 24px;
+    color:rgb(7, 7, 2)
+
+}
+.boy0{
+    background-image:url('background2.jpg') ;
+    
+    
+    background-size:cover;
+    
+    
+}
+.boy3{
+    background-color:lightblue;
+    width: 70%;
+}
+.boy4{
+    background-color: lightblue;
+    width:50%;
+    
+    
+}
+@media(max-width:600px){
+    .boy1{
+        flex-direction: column;
+    }
+    .boy3{
+        width: 100%;
+    }
+    .boy4{
+        width:100% ;
+    }}
+.boy0{
+    color: whitesmoke
+}
+.girl1{
+    background-color: lightblue;
+    color: whitesmoke;
+}
+.boy3{
+    color: rgb(5, 5, 32);
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
